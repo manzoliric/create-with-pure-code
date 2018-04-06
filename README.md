@@ -1,6 +1,4 @@
-Repositores for ideas of what to create with JavaScript.
-
-
+# Always use Vanilla JS, NEVER use Jquery in these projects :) <3
 
 ## Challenges
 
