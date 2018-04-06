@@ -1,2 +1,9 @@
-# create-with-javascript
- Repositores for ideas of what to create with JavaScript.
+Repositores for ideas of what to create with JavaScript.
+
+
+
+## Challenges
+
+#### Beginner
+1 - Make a Simple Website.
+2 - Make a To Do List.
