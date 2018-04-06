@@ -7,5 +7,5 @@
 #### Beginner
 1 - Create a Simple Website. (With Header, Nav, Article, Aside, Footer...) <br>
 2 - Create a Photo Gallery. <br>
-3 - Create a BMI Calculator. <br>
+3 - Create a Body Mass Index (BMI) Calculator. <br>
 4 - Create a To Do List. <br>
