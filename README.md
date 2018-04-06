@@ -9,7 +9,7 @@
 1 - Create a Simple Website. (With Header, Nav, Article, Aside, Footer...) <br>
 2 - Create a Body Mass Index (BMI) Calculator. <br>
 3 - Copy a site you like, without looking at the source code. <br>
-4 - Look a [CodePen](codepen.io) and copy something that you think is nice, without seeing the code.
+4 - Look a [CodePen](codepen.io) and copy something that you think is nice, without seeing the code. <br>
 5 - Create a To Do List. <br>
 
 #### JavaScript
