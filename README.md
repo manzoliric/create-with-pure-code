@@ -1,4 +1,5 @@
-# Always use Vanilla JS, NEVER use Jquery in these projects :) <3
+# Always use Vanilla JS, NEVER use Jquery in these projects :)
+# Always use PURE CSS, NEVER use Bootstrap, Foundation or others libraries :)
 
 ## Challenges
 
