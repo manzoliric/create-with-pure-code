@@ -3,10 +3,10 @@
 ### For these projects, always use vanilla code. Avoid use any library or frameworks like jQuery, React, Angular, Vue, Bootstrap, Foundation...
 
 # How To? 
-### Take a tip in the repository, create, finalize and send us to include in the [completed projects](create-with-pure-code/PROJECTS.md).
+### Take a tip in the repository, create, finalize and send us to include in the [completed projects](/PROJECTS.md).
 
 ## Ideas
-
+B
 ### Beginner
 #### Html, CSS and JavaScript
 1 - Create a Simple Website. (With Header, Nav, Article, Aside, Footer...) <br>
