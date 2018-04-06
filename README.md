@@ -1,7 +1,7 @@
 # Always use Vanilla JS, NEVER use Jquery in these projects :)
 # Always use PURE CSS, NEVER use Bootstrap, Foundation or others libraries :)
 
-## Challenges
+## Ideas
 
 #### Beginner
 1 - Create a Simple Website. (With Header, Nav, Article, Aside, Footer...) <br>
