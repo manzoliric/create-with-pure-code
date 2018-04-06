@@ -1,5 +1,6 @@
-# Always use Vanilla JS, NEVER use Libs or Frameworks in these projects :)
-# Always use PURE CSS, NEVER use Bootstrap, Foundation or others libraries :)
+# Create with pure code!
+
+### For these projects, always use vanilla code. Avoid use any library or frameworks like jQuery, React, Angular, Vue, Bootstrap, Foundation...
 
 ## Ideas
 
