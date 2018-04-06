@@ -6,7 +6,7 @@
 ### Take a tip in the repository, create, finalize and send us to include in the [completed projects](/PROJECTS.md).
 
 ## Ideas
-B
+
 ### Beginner
 #### Html, CSS and JavaScript
 1 - Create a Simple Website. (With Header, Nav, Article, Aside, Footer...) <br>
