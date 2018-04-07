@@ -5,6 +5,9 @@ For these projects, always use vanilla code. Avoid use any library or frameworks
 ## How To? 
 Choose an idea in the repository, create, finalize, and send us to include in the [completed projects](/PROJECTS.md).
 
+## Collaborate with projects in progress
+[Click here](/COLLABORATE.md) to see the projects that are in progress and contribute!
+
 ## Ideas
 
 ### Beginner
