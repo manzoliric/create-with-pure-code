@@ -58,7 +58,7 @@ content > p, .card-text {
 .card {
   box-shadow: 4px 4px 4px 0 rgba(0, 0, 0, 0.2);
   border-radius: 5%;
-  width: 40%;                   /* Adjust card size here */
+  width: 240px;                   /* Adjust card size here */
   height: 100%;
   display: flex;
   flex-flow: row;
@@ -67,8 +67,8 @@ content > p, .card-text {
 }
 
 .card > img {
-  width: 100%;
-  height: auto;
+  width: auto;
+  height: 80px;
   margin: auto;
   flex-grow: 1;
 }
