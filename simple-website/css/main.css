@@ -23,6 +23,16 @@ nav > ul > li {
   padding: 4px
 }
 
+li > a {
+  padding: 4px;
+  text-decoration: none;
+  color: black;
+}
+
+li > a:hover {
+  background: orange;
+}
+
 .content {
   clear: both;
   text-align: center;
