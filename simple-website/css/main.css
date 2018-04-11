@@ -4,7 +4,27 @@ body {
   font-family: Sans-Serif;
 }
 
+header {
+
+}
+
+nav {
+  float: inline-end;
+}
+
+nav > ul {
+  display: flex;
+  flex-flow: row;
+  margin: auto;
+}
+
+nav > ul > li {
+  display: inline-block;
+  padding: 4px
+}
+
 .content {
+  clear: both;
   text-align: center;
 }
 
@@ -30,4 +50,9 @@ body {
   padding: 2px 16px;
   flex-grow: 2;
   text-align: left;
+}
+
+footer {
+  text-align: center;
+  padding: 16px;
 }
