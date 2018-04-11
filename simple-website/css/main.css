@@ -83,3 +83,14 @@ footer {
   text-align: center;
   padding: 16px;
 }
+
+@media (max-width: 600px) {
+  nav {
+    float: none;
+    text-align: center;
+  }
+
+  nav > ul {
+    flex-flow: column;
+  }
+}
