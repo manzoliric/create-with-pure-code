@@ -43,14 +43,22 @@ li > a:hover {
 
 .content {
   clear: both;
-  text-align: center;
   margin: 12px;
+  padding-top: 8px;
+}
+
+content > h1 {
+  text-align: center;
+}
+
+content > p, .card-text {
+  text-align: justify;
 }
 
 .card {
   box-shadow: 4px 4px 4px 0 rgba(0, 0, 0, 0.2);
   border-radius: 5%;
-  width: 20%;
+  width: 40%;                   /* Adjust card size here */
   height: 100%;
   display: flex;
   flex-flow: row;
@@ -59,7 +67,7 @@ li > a:hover {
 }
 
 .card > img {
-  width: 20%;
+  width: 100%;
   height: auto;
   margin: auto;
   flex-grow: 1;
@@ -67,7 +75,7 @@ li > a:hover {
 
 .card-text {
   padding: 2px 16px;
-  flex-grow: 2;
+  flex-grow: 3;
   text-align: left;
 }
 
