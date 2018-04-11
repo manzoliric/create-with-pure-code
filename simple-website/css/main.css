@@ -9,10 +9,25 @@ body {
 }
 
 .card {
-  box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.2);
+  box-shadow: 4px 4px 4px 0 rgba(0, 0, 0, 0.2);
   border-radius: 5%;
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-flow: row;
+  align-items: baseline;
+  text-align: center;
+}
+
+.card > img {
+  width: 20%;
+  height: auto;
+  margin: auto;
+  flex-grow: 1;
 }
 
 .card-text {
-
+  padding: 2px 16px;
+  flex-grow: 2;
+  text-align: left;
 }
