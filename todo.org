@@ -32,6 +32,7 @@ Oi Miriam, dei uma olhada no site e consigo passar alguns pontos para melhoras.
    CLOCK: [2018-04-12 Qui 10:15]--[2018-04-12 Qui 10:19] =>  0:04
 ** DONE Colocar classes para ul e li dentro da nav
    CLOCK: [2018-04-12 Qui 10:19]--[2018-04-12 Qui 10:20] =>  0:01
-** TODO Arrumar organização dos itens da navbar para mobile (classe na media query)
-   CLOCK: [2018-04-12 Qui 10:46]
-** TODO Aplicar BEM ao projeto
+** DONE Arrumar organização dos itens da navbar para mobile (classe na media query)
+   CLOCK: [2018-04-12 Qui 10:46]--[2018-04-12 Qui 11:11] =>  0:25
+** DONE Aplicar BEM ao projeto
+   CLOCK: [2018-04-12 Qui 11:20]--[2018-04-12 Qui 11:20] =>  0:00
