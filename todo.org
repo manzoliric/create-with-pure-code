@@ -23,7 +23,10 @@ Oi Miriam, dei uma olhada no site e consigo passar alguns pontos para melhoras.
 * Tarefas
 ** DONE Colocar viewport de responsividade no <head>
    CLOCK: [2018-04-12 Qui 10:02]--[2018-04-12 Qui 10:07] =>  0:05
-** TODO Trocar <div class="content"> por <section>
-   CLOCK: [2018-04-12 Qui 10:07]
-** TODO Colocar imagens em um diretório chamado img
-** TODO Referenciar imagens de dentro do diretório img
+** DONE Trocar <div class="content"> por <section>
+   CLOCK: [2018-04-12 Qui 10:07]--[2018-04-12 Qui 10:09] =>  0:02
+** DONE Colocar imagens em um diretório chamado img
+   CLOCK: [2018-04-12 Qui 10:09]--[2018-04-12 Qui 10:14] =>  0:05
+** DONE Referenciar imagens de dentro do diretório img
+** TODO Trocar cores do CSS por hexadecimais
+   CLOCK: [2018-04-12 Qui 10:15]
