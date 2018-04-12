@@ -34,11 +34,11 @@ nav > ul > li {
 li > a {
   padding: 4px;
   text-decoration: none;
-  color: black;
+  color: #000;
 }
 
 li > a:hover {
-  background: orange;
+  background: #ffa500;
 }
 
 section {
