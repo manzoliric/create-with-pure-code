@@ -20,13 +20,13 @@ nav {
   float: inline-end;
 }
 
-nav > ul {
+.nav-items {
   display: flex;
   flex-flow: row;
   margin: 0;
 }
 
-nav > ul > li {
+.nav-list-item {
   padding: 2px;
   list-style-type: none;
 }
