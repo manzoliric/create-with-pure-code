@@ -11,7 +11,7 @@
   text-align: center;
 }
 
-header > img {
+.header__img {
   width: 100%;
   height: 10%;
 }
