@@ -1,0 +1,28 @@
+Oi Miriam, dei uma olhada no site e consigo passar alguns pontos para melhoras.
+* HTML & CSS
+
+** TODO Criar classes para atributos como ul e li dentro da nav
+  - Exemplo:
+    #+BEGIN_SRC html
+    <ul class="nav-itens">
+      <li class="nav-item">
+    #+END_SRC
+
+  Porque quando for estilizar você não precisa ficar usando nav > ul >
+  li, apenas pode usar as classes que foram definidas.
+  (também pode usar [[http://getbem.com/introduction/][BEM]] para escrever as classes)
+* HTML
+  1- No Head sempre use o [[https://www.w3schools.com/css/css_rwd_viewport.asp][viewport de responsividade]]
+  2- Em vez de usar '< div class="content" > use < section>' (https://www.w3schools.com/tags/tag_section.asp)
+  3- Em vez de usar Imagens via CDN, baixe a imagem, coloque dentro de uma pasta img e chame ela no html.
+
+* CSS
+
+  1 - Em vez de usar nome de cores, procure usar Hexadecimais, ex: #000 = black;
+
+* Tarefas
+** TODO Colocar viewport de responsividade no <head>
+   CLOCK: [2018-04-12 Qui 10:02]
+** TODO Trocar <div class="content"> por <section>
+** TODO Colocar imagens em um diretório chamado img
+** TODO Referenciar imagens de dentro do diretório img
