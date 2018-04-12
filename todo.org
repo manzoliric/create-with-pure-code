@@ -30,6 +30,8 @@ Oi Miriam, dei uma olhada no site e consigo passar alguns pontos para melhoras.
 ** DONE Referenciar imagens de dentro do diretório img
 ** DONE Trocar cores do CSS por hexadecimais
    CLOCK: [2018-04-12 Qui 10:15]--[2018-04-12 Qui 10:19] =>  0:04
-** TODO Colocar classes para ul e li dentro da nav
+** DONE Colocar classes para ul e li dentro da nav
    CLOCK: [2018-04-12 Qui 10:19]--[2018-04-12 Qui 10:20] =>  0:01
+** TODO Arrumar organização dos itens da navbar para mobile (classe na media query)
+   CLOCK: [2018-04-12 Qui 10:46]
 ** TODO Aplicar BEM ao projeto

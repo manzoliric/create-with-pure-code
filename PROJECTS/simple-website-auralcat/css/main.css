@@ -1,13 +1,13 @@
-html {
+.html {
   height: 100%;
   margin: -8px;
 }
 
-body {
+.body {
   font-family: Sans-Serif;
 }
 
-header {
+.header {
   text-align: center;
 }
 
@@ -16,7 +16,7 @@ header > img {
   height: 10%;
 }
 
-nav {
+.nav {
   float: inline-end;
 }
 
@@ -41,7 +41,7 @@ li > a:hover {
   background: #ffa500;
 }
 
-section {
+.section {
   clear: both;
   margin: 12px;
   padding-top: 8px;
@@ -79,17 +79,18 @@ content > p, .card-text {
   text-align: left;
 }
 
-footer {
+.footer {
   text-align: center;
   padding: 16px;
 }
 
 @media (max-width: 600px) {
-  nav {
+  .nav {
     float: none;
   }
 
-  nav > ul {
+  .nav-items {
     display: contents;
+
   }
 }
