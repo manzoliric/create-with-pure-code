@@ -41,7 +41,7 @@ li > a:hover {
   background: orange;
 }
 
-.content {
+section {
   clear: both;
   margin: 12px;
   padding-top: 8px;
