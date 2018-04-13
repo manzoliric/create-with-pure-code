@@ -1,38 +1,39 @@
 <!doctype html>
-<html lang="en">
+<html class="html" lang="en">
 
 <head>
     <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>Simple website</title>
     <link href="css/main.css" rel="stylesheet" />
 </head>
 
-<body>
-    <header>
-        <img alt="Imagem do cabeçalho" src="https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.bitrebels.com%2Fwp-content%2Fuploads%2F2018%2F02%2Fstock-message-boards-header-image.jpg&f=1" />
-        <nav>
-            <ul>
-                <li><a href="">Item 1</a></li>
-                <li><a href="">Item 2</a></li>
-                <li><a href="">Item 3</a></li>
-                <li><a href="">Item 4</a></li>
-                <li><a href="">Item 5</a></li>
+<body class="body">
+    <header class="header">
+        <img class="header__img" alt="Imagem do cabeçalho" src="img/header.jpeg" />
+        <nav class="nav-bar">
+            <ul class="nav-bar__nav-items">
+                <li class="nav-items__list-item"><a class="nav-items__list-item__link" href="">Item 1</a></li>
+                <li class="nav-items__list-item"><a class="nav-items__list-item__link" href="">Item 2</a></li>
+                <li class="nav-items__list-item"><a class="nav-items__list-item__link" href="">Item 3</a></li>
+                <li class="nav-items__list-item"><a class="nav-items__list-item__link" href="">Item 4</a></li>
+                <li class="nav-items__list-item"><a class="nav-items__list-item__link" href="">Item 5</a></li>
             </ul>
         </nav>
     </header>
-    <div class="content">
-        <h1>Título do conteúdo</h1>
-        <p>Tiramisu gummi cake dragée jujubes sweet pie bar canes tiramisu. Marshmallow lemon cake powder toffee canes roll soufflé sweet gummi marshmallow. Sesame snaps gingerbread tiramisu bar jujubes fruitcake pudding pie bear. Cake candy pie gingerbread drops roll marshmallow lollipop soufflé. Marshmallow beans powder tootsie tiramisu candy gummi carrot toffee pastry.</p>
+    <section class="section">
+        <h1 class="section__h1">Título do conteúdo</h1>
+        <p class="section__p">Tiramisu gummi cake dragée jujubes sweet pie bar canes tiramisu. Marshmallow lemon cake powder toffee canes roll soufflé sweet gummi marshmallow. Sesame snaps gingerbread tiramisu bar jujubes fruitcake pudding pie bear. Cake candy pie gingerbread drops roll marshmallow lollipop soufflé. Marshmallow beans powder tootsie tiramisu candy gummi carrot toffee pastry.</p>
         <div class="card">
-            <img alt="Card Photo" src="https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fleanpub.com%2Fsite_images%2Fjelinux%2Ftux.png&f=1"></img>
-            <div class="card-text">
-                <h3>Card Title</h3>
-                <p>Card Text</p>
+            <img class="card__photo" alt="Card Photo" src="./img/card-photo.png"></img>
+            <div class="card__text-panel">
+                <h3 class="card__text-panel__title">Card Title</h3>
+                <p class="card__text-panel__p">Card Text</p>
             </div>
         </div>
-    </div>
-    <footer>
-        <p>2018 - Created By Auralcat</p>
+    </section>
+    <footer class="footer">
+        <p class="footer__p">2018 - Created By Auralcat</p>
     </footer>
 </body>
 
