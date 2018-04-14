@@ -6,34 +6,35 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
-    <div id="github-ribbon">
+    <div class="ribbon">
         <a href="https://github.com/lucianodacunha/create-with-pure-code"
             target="_blank">
-            <img src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub">
+            <img class="ribbon__img" src="https://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub">
         </a>
     </div>
-    <header>
-        <div class="header">            
-            <h1 class="header__title"><a href="/">Simple Website</a></h1>
-            <nav class="nav">
-                <ul class="nav-list">
-                    <li class="nav-list-item"><a href="/">Home</a></li>
-                    <li class="nav-list-item"><a href="#">Contato</a></li>
-                    <li class="nav-list-item"><a href="#">Sobre</a></li>
-                </ul>
-            </nav>
-                <hr class="separator-style">
+    <header class="header">
+        <h1 class="header__title">
+            <a class="header__link" href="/">Simple Website</a>
+        </h1>
+        <nav class="header__nav">
+            <ul class="header__list">
+                <li class="header__item"><a href="/">Home</a></li>
+                <li class="header__item"><a href="#">Contato</a></li>
+                <li class="header__item"><a href="#">Sobre</a></li>
+            </ul>
+        </nav>
+                <hr class="header__separator">
             </div>
         </div>
     </header>
-    <section>
-        <article class="article">
-            <header class="article-header">
-                <h1 class="header-article">
+    <section class="main">
+        <article class="main_article article">
+            <header class="article__header">
+                <h1 class="article__title">
                     Hendrerit dolor magna eget est lorem 
                 </h1>
             </header>
-            <section class="article-content"> 
+            <section class="article__content"> 
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim nec dui nunc mattis enim. Ac turpis egestas maecenas pharetra convallis posuere morbi leo. Scelerisque varius morbi enim nunc faucibus. Nunc scelerisque viverra mauris in aliquam sem fringilla ut. Mauris rhoncus aenean vel elit. Etiam non quam lacus suspendisse faucibus interdum posuere lorem ipsum. Curabitur vitae nunc sed velit dignissim sodales ut. Nunc id cursus metus aliquam eleifend. Ac tincidunt vitae semper quis lectus.
 
                 <aside> 
@@ -52,25 +53,15 @@
             </section>
         </article>        
     </section>
-    <footer>
-        <div class="container">
-            <div class="row">
-                <p>
-                    Feito com 
-                    <span class="ascii-heart">
-                        &#10084;
-                    </span>, 
-                    <a href="https://www.w3.org/html/" target="_blank">
-                        html
-                    </a> e 
-                    <a href="https://www.w3.org/css/" target="_blank">
-                        css
-                    </a> <br> 
-                    <span class="copy-left">©</span> 2018
-                    
-                </p>
-            </div>
-        </div>
+    <footer class="footer">
+        <p>
+            Feito com <span class="footer__heart">&#10084;</span>, 
+            <a class="footer__link" href="https://www.w3.org/html/" 
+                target="_blank"> html  </a> e 
+            <a class="footer__link" href="https://www.w3.org/css/" 
+                target="_blank">css</a> <br>
+            <small><span class="footer__copyleft">©</span> 2018</small>
+        </p>
     </footer>
 </body>
 </html>

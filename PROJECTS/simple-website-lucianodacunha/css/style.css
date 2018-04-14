@@ -1,16 +1,77 @@
-html, body {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 1.1em;
-    margin: 0;
-}
-
-header {
+.header {
     text-align: center;
-
 }
 
-header > h1 {
+.header__title {
     font-weight: 900;
+}
+
+.header__list {
+    padding: 0;
+}
+
+.header__item {
+    display: inline-block;
+    padding: 0 20px;
+}
+
+.header__separator {
+    width: 300px;
+    border: 5px solid #e4e4e4;
+}
+
+.main {
+    height: 100%;
+    width: 720px;
+    line-height: 1.6em;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 30px;
+}
+
+.article {
+    padding: 20px 0; 
+}
+
+.footer {
+    font-size: 0.90em;
+    text-align: center;
+    height: 60px;
+    width: 100%;
+    padding: 18px 0;
+    background-color: #F2F2F2;
+    border-top: 1px solid #e4e4e4;
+}
+
+.footer_row {
+    line-height: 1.5em;
+}
+
+.footer__heart {
+    color: #c32222;
+    font-size: 1.0em;
+}
+
+.footer__copyleft { 
+    display: inline-block; 
+    text-align: right; 
+    margin: 0px; 
+    -moz-transform: scaleX(-1); 
+    -o-transform: scaleX(-1); 
+    -webkit-transform: scaleX(-1); 
+    transform: scaleX(-1); 
+    filter: FlipH; 
+    -ms-filter: “FlipH”; 
+}
+
+.ribbon {
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: 0;
+    z-index: 100;
 }
 
 header a {
@@ -18,31 +79,19 @@ header a {
     text-decoration: none !important;
 }
 
-header ul {
-    padding: 0;
+a:hover {
+    color: #c32222;   
 }
 
-header li {
-    display: inline-block;
-    padding: 0 20px;
+.footer a {
+    color: rgba(0,0,0,.54)  ;
+    text-decoration: none !important;
 }
 
-hr {
-    width: 300px;
-}
-
-
-body > section {
-    margin-top: 40px;
-    margin-bottom: 60px;
-}
-
-section > article {
-    height: 100%;
-    width: 720px;
-    line-height: 1.6em;
-    margin: auto;
-    padding: 0 10px;
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.1em;
+    margin: 0;
 }
 
 aside {
@@ -60,62 +109,3 @@ section > article q {
     font-style: italic;    
 }
 
-footer {
-    font-size: 0.70em;
-    text-align: center;
-    height: 60px;
-    width: 100%;
-    padding: 18px 0;
-    background-color: #F2F2F2;
-    border-top: 1px solid #e4e4e4;
-}
-
-footer p {
-    line-height: 1.5em;
-}
-
-footer a {
-    color: rgba(0,0,0,.54)  ;
-    text-decoration: none !important;
-}
-
-footer > div.container {
-    
-}
-
-.copy-left { 
-    display: inline-block; 
-    text-align: right; 
-    margin: 0px; 
-    -moz-transform: scaleX(-1); 
-    -o-transform: scaleX(-1); 
-    -webkit-transform: scaleX(-1); 
-    transform: scaleX(-1); 
-    filter: FlipH; 
-    -ms-filter: “FlipH”; 
-}
-
-span.ascii-heart {
-    color: #c32222;
-    font-size: 1.0em;
-}
-
-div#github-ribbon {
-    position: absolute;
-    top: 0;
-    right: 0;
-    border: 0;
-    z-index: 100;
-}
-
-a:hover {
-    color: #c32222;   
-}
-
-.article {
-    padding: 20px 0; 
-}
-
-.separator-style {
-    border: 5px solid #e4e4e4;
-}
