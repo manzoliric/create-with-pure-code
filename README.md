@@ -29,3 +29,9 @@ Choose an idea in the repository, create, finalize, and send us to include in th
 - See a layout in [dribbble](https://dribbble.com) and write the code. <br>
 - Create a Modal without JS. <br>
 - Create a text with gradient colorful. <br>
+
+### Intermediate
+ - Create a url shortner website (using a external shortner API)
+ 
+### Advanced
+ - Create a url shortner website (make your own API with node.js)
