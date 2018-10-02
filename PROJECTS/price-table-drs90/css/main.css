@@ -1,0 +1,93 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.centralize-flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.container {
+  height: 100vh;
+  width: 100%;
+  background: #404f79;
+}
+article {
+  display: flex;
+}
+.table:hover {
+  height: 690px;
+  background: #397bc4;
+  margin: -10px 0px;
+}
+h1 {
+  text-align: center;
+  flex-basis: 100%;
+  color: #fff;
+}
+
+h2 {
+  font-size: 30px;
+  padding-top: 20px;
+  color: #e7a46c;
+}
+h4 {
+  font-size: 18px;
+  color: #e7a46c;
+}
+li p {
+  font-size: 20px;
+}
+.table {
+  max-width: 300px;
+  background: #fff;
+  padding: 10px 30px 20px;
+  box-shadow: 0 8px 5px 0px rgba(0,0,0, 0.8);
+  border: 1px solid gray;
+  border-radius: 4px;
+  text-align: center;
+  height: fit-content;
+}
+
+.price {
+  height: 150px;
+  width: 150px;
+  background: #411e2f;
+  display: flex;
+  border-radius: 50%;
+  margin: 40px;
+}
+.price span {
+  color: #fff;
+  font-size: 30px;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  border-radius: 50%;
+  margin: 20px;
+  position: relative;
+  width: 250px;
+  padding-bottom: 10px;
+}
+
+button {
+  width: 100%;
+  padding: 20px 10px;
+  font-size: 18px;
+  border: none;
+  background: radial-gradient(circle 0px, red, transparent), radial-gradient(circle 3px,#3c588b, transparent);
+  background-size: 100%, 7px 5px;
+  background-position: 0 0, -20px 6px;
+  color: #fff;
+  text-transform: uppercase;
+}
+button:focus {
+  background: #397bc4;
+  outline: none;
+}
