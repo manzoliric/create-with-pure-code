@@ -1,37 +1,37 @@
-# Create with pure code!
+Crie com código puro!
 
-For these projects, always use vanilla code. Avoid use any library or frameworks like jQuery, React, Angular, Vue, Bootstrap, Foundation, etc.
+Para esses projetos, sempre use o código vanilla. Evite usar qualquer biblioteca ou estrutura como jQuery, React, Angular, Vue, Bootstrap, Foundation, etc.
 
-## How To? 
-Choose an idea in the repository, create, finalize, and send us to include in the [completed projects](/PROJECTS.md).
+## Como?
+Escolha uma ideia no repositório, crie, finalize e envie-nos para incluir nos [projetos concluídos] (/ PROJECTS.md).
 
-## Collaborate with projects in progress
-[Click here](/COLLABORATE.md) to see the projects that are in progress and contribute!
+## Colabore com projetos em andamento
+[Clique aqui] (/ COLLABORATE.md) para ver os projetos que estão em andamento e contribuir!
 
-## Ideas
+## Ideias
 
-### Beginner
-#### Html, CSS and JavaScript
-- Create a Simple Website. (With Header, Nav, Article, Aside, Footer...) <br>
-- Create a Body Mass Index (BMI) Calculator. <br>
-- Copy a site you like, without looking at the source code. <br>
-- Create a To Do List. <br>
-- Create a Price Table like [this](https://cdn.dribbble.com/users/388581/screenshots/1294739/dr-price-table_1x.png) using FlexBox. <br>
-- Get your current position using the Geolocation API.<br>
-- Save your data to the browser using Local Storage API. <br>
+### Principiante
+#### Html, CSS e JavaScript
+- Crie um site simples. (Com cabeçalho, navegação, artigo, à parte, rodapé ...) <br>
+- Crie uma calculadora de índice de massa corporal (IMC). <br>
+- Copie um site de sua preferência, sem olhar o código-fonte. <br>
+- Crie uma lista de tarefas pendentes. <br>
+- Crie uma tabela de preços como [esta] (https://cdn.dribbble.com/users/388581/screenshots/1294739/dr-price-table_1x.png) usando FlexBox. <br>
+- Obtenha sua posição atual usando a API de geolocalização. <br>
+- Salve seus dados no navegador usando a API de armazenamento local. <br>
 
 #### JavaScript
-- Generate a Json (https://www.json-generator.com/) and use [XMLHttpRequest](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) to show the json file in your website.
+- Gere um Json (https://www.json-generator.com/) e use [XMLHttpRequest] (https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) para mostrar o json arquivo em seu site.
 
 #### CSS
-- Create a Photo Gallery. <br>
-- Look a [CodePen](codepen.io) and copy something that you think is nice, without seeing the code. <br>
-- See a layout in [dribbble](https://dribbble.com) and write the code. <br>
-- Create a Modal without JS. <br>
-- Create a text with gradient colorful. <br>
+- Crie uma galeria de fotos. <br>
+- Procure um [CodePen] (codepen.io) e copie algo que você achar legal, sem ver o código. <br>
+- Veja um layout em [dribbble] (https://dribbble.com) e escreva o código. <br>
+- Crie um Modal sem JS. <br>
+- Crie um texto com gradiente colorido. <br>
 
-### Intermediate
- - Create a url shortner website (using a external shortner API)
+### Intermediário
+ - Crie um site de abreviatura de url (usando uma API de abreviatura externa)
  
-### Advanced
- - Create a url shortner website (make your own API with node.js)
+### Avançado
+ - Crie um site de abreviação de URL (faça sua própria API com node.js)
